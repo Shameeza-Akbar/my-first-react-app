@@ -1,11 +1,7 @@
 import MyPage from "./test/myPage";
 
 function App() {
-  return (
-    <>
-      <MyPage />
-    </>
-  );
+  return <MyPage />;
 }
 
 export default App;
