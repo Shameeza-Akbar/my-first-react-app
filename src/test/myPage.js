@@ -7,7 +7,7 @@ function MyPage() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Add your App here.
         </p>
         <a
           className="App-link"
